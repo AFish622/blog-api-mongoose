@@ -4,7 +4,7 @@
   "description": "Learning to set up project using mongoDB and mongoose",
   "main": "config.js",
   "dependencies": {
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "mongoose": "^5.9.14",
     "morgan": "^1.10.0"
   },
